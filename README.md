@@ -1,16 +1,34 @@
-### Hi there 👋
-
 <!--
-**dmsand12/dmsand12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Title: DMSAND12
+  Description: Gabut doang saya
+  Author: dmsand12
+  -->
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://raw.githubusercontent.com/dmsand12/dmsand12/master/20210925_162623.jpg" width="210" height="210"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/dmsand12"><img title="dmsand12" src="https://img.shields.io/badge/GitHub-dmsand12-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/dmsand12/followers"><img title="Followers" src="https://img.shields.io/github/followers/dmsand12?color=blue&style=flat-square"></a>
+<p>
+
+Sugeng rawuh dulur!
+Saya [Dimas](https://github.com/dmsand12)
+Saat ini saya bersekolah di salah satu SMK Negeri di Kabupaten Tuban.
+
+<img src="https://img.shields.io/badge/Umur-17-blue">
+
+### Jangan Dukung Saya
+```
+Jangan Support, Soalnya Saya Mageran. Syukur kalo saya kerjain project, lah kalo enggak gimana? 🗿
+```
+
+## Social Media
+* [WhatsApp](https://api.whatsapp.com/send?phone=6282140604765&text=P) 
+* [Instagram](https://www.instagram.com/dimaz.and_)
+* [GitHub](https://github.com/dmsand12)
+</p>
