@@ -18,14 +18,7 @@
 
 Sugeng rawuh dulur!
 Saya [Dimas](https://github.com/dmsand12)
-Saat ini saya bersekolah di salah satu SMK Negeri di Kabupaten Tuban.
-
 <img src="https://img.shields.io/badge/Umur-17-blue">
-
-### Jangan Dukung Saya
-```
-Jangan Support, Soalnya Saya Mageran. Syukur kalo saya kerjain project, lah kalo enggak gimana? 🗿
-```
 
 ## Social Media
 * [WhatsApp](https://api.whatsapp.com/send?phone=6282140604765&text=P) 
